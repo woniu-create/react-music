@@ -1,10 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import play from "./assets/prev.svg";
+import "./App.css";
+// import music from "./assets/周杰伦-花海.mp3";
+// import music from "./assets/许嵩 - 有何不可.mp3";
+import music from "./assets/周杰伦 - 稻香.mp3";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -17,7 +21,15 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+      </header> */}
+      <img src={play} alt="play" />
+      <figure>
+        <figcaption>Listen to the T-Rex:</figcaption>
+        <audio autoPlay loop controls src={music}>
+          Your browser does not support the
+          <code>audio</code> element.
+        </audio>
+      </figure>
     </div>
   );
 }
