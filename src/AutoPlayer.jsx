@@ -118,7 +118,8 @@ const AudioPlayer = ({ tracks }) => {
     <div className="audio-player">
       <div className="track-info">
         <img
-          className="artwork"
+          // className="artwork"
+          className={`artwork ${!isPlaying ? 'animation_pause': ''}` }
           src={image}
           alt={`track artwork for ${title} by ${artlist}`}
         />

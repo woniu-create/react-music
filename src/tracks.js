@@ -12,11 +12,11 @@ import you from "./assets/许嵩 - 有何不可.mp3";
 
 const tracks = [
   {
-    title: "爷爷泡的茶",
+    title: "稻香",
     artlist: "周杰伦",
-    audioSrc: yeye,
+    audioSrc: daoxiang,
     image: imgSrc,
-    color: "#00aeb0",
+    color: "skyblue",
   },
   {
     title: "有何不可",
@@ -24,6 +24,13 @@ const tracks = [
     audioSrc: you,
     image: imgSrc4,
     color: "#ffb77a",
+  },
+  {
+    title: "爷爷泡的茶",
+    artlist: "周杰伦",
+    audioSrc: yeye,
+    image: imgSrc,
+    color: "#00aeb0",
   },
   {
     title: "花海",
@@ -38,14 +45,6 @@ const tracks = [
     audioSrc: summy,
     image: imgSrc2,
     color: "#e8c07b",
-  },
-
-  {
-    title: "稻香",
-    artlist: "周杰伦",
-    audioSrc: daoxiang,
-    image: imgSrc,
-    color: "skyblue",
   },
   {
     title: "园游会",
