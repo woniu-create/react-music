@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-music/static/css/main.0ca2ce2e.css",
+    "main.js": "/react-music/static/js/main.60041374.js",
+    "static/media/周杰伦 - 园游会.mp3": "/react-music/static/media/周杰伦 - 园游会.e32a9ffa534e9debe9a3.mp3",
+    "static/media/许嵩 - 有何不可.mp3": "/react-music/static/media/许嵩 - 有何不可.40eaa23ea65174684268.mp3",
+    "static/media/爷爷泡的茶 - 周杰伦.mp3": "/react-music/static/media/爷爷泡的茶 - 周杰伦.43de6b229a90723f74d1.mp3",
+    "static/media/summy.mp3": "/react-music/static/media/summy.9beee60626fef6c31acf.mp3",
+    "static/media/周杰伦-花海.mp3": "/react-music/static/media/周杰伦-花海.215277f4f9b4416f8eb3.mp3",
+    "static/media/周杰伦 - 稻香.mp3": "/react-music/static/media/周杰伦 - 稻香.2edf2b7aaef3955c043e.mp3",
+    "static/media/joy.png": "/react-music/static/media/joy.e4f7f434e4879e7b96c7.png",
+    "static/media/joy2.png": "/react-music/static/media/joy2.f8dda7907e6a7fc666ba.png",
+    "static/media/joy3.png": "/react-music/static/media/joy3.2035d7f23402d027428e.png",
+    "static/media/shu.png": "/react-music/static/media/shu.c6b59645913241662d48.png",
+    "static/media/pause.svg": "/react-music/static/media/pause.fb88548003ec45475f04bccffb40f95c.svg",
+    "static/media/prev.svg": "/react-music/static/media/prev.d4c47e5b22e682c88130b4d965732679.svg",
+    "static/media/next.svg": "/react-music/static/media/next.4a088e973fc6777dca8e51c9602034f5.svg",
+    "index.html": "/react-music/index.html",
+    "static/media/play.svg": "/react-music/static/media/play.751c39f9c7c7f70fdb841c94ea0ff96d.svg",
+    "main.0ca2ce2e.css.map": "/react-music/static/css/main.0ca2ce2e.css.map",
+    "main.60041374.js.map": "/react-music/static/js/main.60041374.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ca2ce2e.css",
+    "static/js/main.60041374.js"
+  ]
+}
